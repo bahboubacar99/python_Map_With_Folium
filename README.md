@@ -2,7 +2,7 @@
 In this project, we will map deaths caused by different diseases using Python's folium library. 
 The project chosen in this rendering is the representation of tumour-related deaths by year and gender.
 The data was downloaded from the CEPIdc Inserm website, which can be accessed via this [link](https://opendata-cepidc.inserm.fr/)
-The main.py file contains the project programme in Python. Once executed, a file named death_by_tumour_map.html is created in the main.py file folder, which is a map web page.
+The **main.py** file contains the project programme in Python. Once executed, a file named death_by_tumour_map.html is created in the main.py file folder, which is a map web page.
 
 ## prerequisities : install and import these libraries
 
